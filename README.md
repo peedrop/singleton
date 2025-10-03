@@ -1,4 +1,3 @@
-
 # Padrão Singleton
 
 Universidade Federal de Juiz de Fora
@@ -11,6 +10,3 @@ Universidade Federal de Juiz de Fora
 
 
 ## Diagrama de classes
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
