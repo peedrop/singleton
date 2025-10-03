@@ -6,7 +6,4 @@ Universidade Federal de Juiz de Fora
 
 **Aluno:** Pedro Paulo
 
-
-
-
 ## Diagrama de classes
